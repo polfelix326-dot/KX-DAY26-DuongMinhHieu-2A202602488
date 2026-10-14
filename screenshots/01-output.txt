@@ -1,0 +1,25 @@
+﻿User: Thß╗¥i tiß║┐t H├á Nß╗Öi v├á ─É├á Nß║╡ng h├┤m nay thß║┐ n├áo?
+
+  [model y├¬u cß║ºu] get_weather({'city': 'H├á Nß╗Öi'})
+  [app thß╗▒c thi]  -> {"city": "H├á Nß╗Öi", "nhiß╗çt_─æß╗Ö": "29┬░C", "thß╗¥i_tiß║┐t": "trß╗¥i m╞░a nhß║╣", "─æß╗Ö_ß║⌐m": "82%", "gi├│": {"h╞░ß╗¢ng": "─É├┤ng Nam", "tß╗æc_─æß╗Ö": "12 km/h"}}
+  [model y├¬u cß║ºu] get_weather({'city': '─É├á Nß║╡ng'})
+  [app thß╗▒c thi]  -> {"city": "─É├á Nß║╡ng", "nhiß╗çt_─æß╗Ö": "30┬░C", "thß╗¥i_tiß║┐t": "nhiß╗üu m├óy", "─æß╗Ö_ß║⌐m": "78%", "gi├│": {"h╞░ß╗¢ng": "─É├┤ng", "tß╗æc_─æß╗Ö": "10 km/h"}}
+Trß║ú lß╗¥i: D╞░ß╗¢i ─æ├óy l├á th├┤ng tin thß╗¥i tiß║┐t h├┤m nay tß║íi **H├á Nß╗Öi** v├á **─É├á Nß║╡ng**:
+
+### ≡ƒîº∩╕Å **H├á Nß╗Öi**
+* **Nhiß╗çt ─æß╗Ö:** 29┬░C
+* **Trß║íng th├íi:** Trß╗¥i m╞░a nhß║╣ ≡ƒîº∩╕Å
+* **─Éß╗Ö ß║⌐m:** 82% ≡ƒÆº
+* **Gi├│:** ─É├┤ng Nam, 12 km/h ≡ƒÆ¿
+> **Lß╗¥i khuy├¬n:** H├┤m nay H├á Nß╗Öi c├│ m╞░a nhß║╣, bß║ín nhß╗¢ mang theo ├┤ (d├╣) hoß║╖c ├ío m╞░a mß╗Ång khi ra ngo├ái nh├⌐!
+
+---
+
+### Γÿü∩╕Å **─É├á Nß║╡ng**
+* **Nhiß╗çt ─æß╗Ö:** 30┬░C
+* **Trß║íng th├íi:** Nhiß╗üu m├óy ≡ƒîñ∩╕Å
+* **─Éß╗Ö ß║⌐m:** 78% ≡ƒÆº
+* **Gi├│:** ─É├┤ng, 10 km/h ≡ƒÆ¿
+> **Lß╗¥i khuy├¬n:** Thß╗¥i tiß║┐t kh├í m├ít mß║╗ v├á dß╗à chß╗ïu, rß║Ñt th├¡ch hß╗úp cho c├íc hoß║ít ─æß╗Öng ngo├ái trß╗¥i. Tuy nhi├¬n, trß╗¥i nhiß╗üu m├óy n├¬n bß║ín c├│ thß╗â chuß║⌐n bß╗ï sß║╡n mß╗Öt chiß║┐c ├┤ nhß╗Å ph├▓ng khi c├│ m╞░a r├áo bß║Ñt chß╗út nh├⌐! 
+
+Ch├║c bß║ín c├│ mß╗Öt ng├áy thß║¡t tß╗æt l├ánh! ≡ƒÿè
